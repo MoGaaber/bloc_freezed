@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mogaaber.blocfreezed.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mogaaber.blocfreezed.MyBundle
 
 class MyApplicationService {
 
